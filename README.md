@@ -20,3 +20,10 @@ Commands -
   EOF
  
  - kubectl get pod nginx
+ 
+ 
+ API PRIMITIVES -
+ 
+ Commands -
+  - kubectl get componentstatus
+  
