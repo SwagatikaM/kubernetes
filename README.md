@@ -26,4 +26,7 @@ Commands -
  
  Commands -
   - kubectl get componentstatus
+  - kubectl get pods --show-labels
+  - kubectl label pods <podname> env=PROD
+  - kubectl get pods -L env
   
